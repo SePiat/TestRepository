@@ -15,5 +15,6 @@ namespace ConsoleApp1
             Console.WriteLine("NewLineInBranchMaster2");
 
         }
+        string test = "testValue";
     }
 }
