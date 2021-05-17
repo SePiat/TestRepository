@@ -10,11 +10,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("CommitToSecondBranch");
+            Console.WriteLine("RepearBranch");
+            Console.WriteLine("NewLineInBranchMaster");
+            Console.WriteLine("NewLineInBranchSecondBranch");
         }
     }
 }
