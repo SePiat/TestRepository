@@ -13,8 +13,14 @@ namespace ConsoleApp1
             Console.WriteLine("RepearBranch");
             Console.WriteLine("NewLineInBranchMaster");
             Console.WriteLine("NewLineInBranchMaster2");
+            Console.WriteLine("NewLineInBranchNewBranch");
+
 
         }
         string test = "testValue";
+    }
+    class Program1
+    {
+        public int test = 5;
     }
 }
