@@ -15,6 +15,11 @@ namespace ConsoleApp1
             Console.WriteLine("NewLineInBranchMaster2");
             Console.WriteLine("NewLineInBranchNewBranch");
 
+
         }
+    }
+    class Program1
+    {
+        public int test = 5;
     }
 }
