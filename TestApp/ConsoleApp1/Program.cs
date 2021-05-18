@@ -23,4 +23,9 @@ namespace ConsoleApp1
     {
         public int test = 5;
     }
+
+    class Program2
+    {
+        public int test = 5;
+    }
 }
