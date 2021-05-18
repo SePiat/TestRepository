@@ -22,5 +22,9 @@ namespace ConsoleApp1
     class Program1
     {
         public int test = 5;
+        public int test1 = 5;
+        public int test2 = 5;
+        public int test3 = 5;
     }
+
 }
