@@ -27,4 +27,8 @@ namespace ConsoleApp1
     {
         public int test = 5;
     }
+    class ProgramChangeFromTestBranch
+    {
+        public int test = 5;
+    }
 }
